@@ -1,0 +1,5 @@
+name: RgBackup
+version: 0.1
+main: pl.overr.backup.BackupPlugin
+commands:
+  backup:
